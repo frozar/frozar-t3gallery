@@ -8,5 +8,5 @@ export default {
   dbCredentials: {
     url: env.DATABASE_URL,
   },
-  tablesFilter: ["t3gallery_*"],
+  tablesFilter: ["frozar-t3gallery_*"],
 } satisfies Config;
